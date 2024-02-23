@@ -22,7 +22,11 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 - 23/02/2024 - Le lezioni inizieranno giorno 05/03/2024 come previsto dal calendario accademico.
 
 
-# ESAMI
+# ESAME
+
+## Homework
+
+Durante lo svolgimento del corso saranno assegnati degli HW, le cui date di assegnazione e consegna sono disponibili nella relativa sezione al [link](./homeworks.md). 
 
 ## Progetto unico
 
