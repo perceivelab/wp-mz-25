@@ -26,7 +26,7 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 
 ## Homework
 
-Durante lo svolgimento del corso saranno assegnati degli HW, le cui date di assegnazione e consegna sono disponibili nella relativa sezione al [link](./homeworks.md). 
+Durante lo svolgimento del corso saranno assegnati degli HW, le cui date di assegnazione e consegna sono disponibili nella relativa sezione al [link](./homework.md). 
 
 ## Progetto unico
 
