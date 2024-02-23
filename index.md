@@ -17,6 +17,11 @@ layout: default
 {: #tag}
 Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/2nmkEMKbDw).
 
+## AVVISI
+
+- 23/02/2024 - Le lezioni inizieranno giorno 05/03/2024 come previsto dal calendario accademico.
+
+
 # ESAMI
 
 ## Progetto unico
