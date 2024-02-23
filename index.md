@@ -8,8 +8,8 @@ layout: default
 
 | Lezioni            |
 | :----------------: |
-| Martedì 11-13, D44 |
-| Giovedì 17-20, D41 |
+| Martedì 11-13, D23 |
+| Giovedì 15-18, D44 |
 
 **Ricevimento**: [Concordare via mail](#staff) 
 
@@ -19,20 +19,16 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 
 # ESAMI
 
-## Homework
-
-Prenotazione agli appelli per la discussione degli homework: [link](https://calendly.com/simone-palazzo/esami-wp-2023)
-
 ## Progetto unico
 
-Gli studenti che non hanno partecipato agli homework dovranno presentare un progetto unico le cui specifiche sono
+Gli studenti che non partecipano agli homework dovranno presentare un progetto unico le cui specifiche sono
 disponibili a questo [link](https://drive.google.com/file/d/108HxBicJ0u5Dils_82hDVs94bTGHVvOI/view?usp=sharing).
 
 Le date per la presentazione dei progetti unici sono
-esclusivamente quelle degli appelli previsti da calendario. È possibile prenotarsi tramite lo stesso [link](https://calendly.com/simone-palazzo/esami-wp-2023) per la discussione degli homework,
+esclusivamente quelle degli appelli previsti da calendario. 
 
 # CONTATTI
 
-- *[Simone Palazzo](mailto:simone.palazzo@unict.it)*
+- *[Concetto Spampinato](mailto:concetto.spampinato@unict.it)*
 - *[Matteo Pennisi](mailto:matteo.pennisi@phd.unict.it)*
-- *[Raffaele Mineo](mailto:raffaele.mineo@phd.unict.it)*
+
