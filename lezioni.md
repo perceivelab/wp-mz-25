@@ -19,11 +19,12 @@ layout: page
 | Lezione 9    | Supporto svolgimento MHW2        | 02 aprile 2024 |  |
 | Lezione 10   | REST API                         | 04 aprile 2024 |  |  |
 | Lezione 11   | Esercitazione REST API           | 16 aprile 2024 |  |  |
-| Lezione 13   | PHP                              | 18 aprile 2024 |  |  |
-| Lezione 14   | PHP: Sessioni, Database, AJAX    | 02 maggio 2024 |  |  |
-| Lezione 16   | Esercitazione PHP e REST API     | 07 maggio 2024 |  |  |
-| Lezione 17   | MVC: Laravel (1)                 | 16 maggio 2024 | [Link](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESC2YEtQ5apMg0PsYLqCvWMBIWFQeNVhcZj5p5htVX45MA?e=f5n162) |
-| Lezione 18   | MVC: Laravel (2)                 | 23 maggio 2024 | |
-| Lezione 19   | Esercitazione Laravel            | 25 maggio 2024 | | [Link](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/ESCllKQurLhLs3mVN6ml-YYBuvQopJ11H4zJyghNLlPMCg?e=4BBW2Y) |
-|              | Tutorial porting Laravel         |                | | [Codice](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EVL9-SpQPqJMmV_8ejwZTQsBJC3u-UStAEngCJnZ5ALgsw?e=fE0vdu) + [Video](https://studentiunict-my.sharepoint.com/:v:/g/personal/simone_palazzo_unict_it/EbxxEG7hXOlMtsddYenFni0BZw9OInIPDgTBtPf1xWjjmA?e=owRmZm) |
-| Lezione 20   | Seminario su Node.js             | 30 maggio 2024 | |
+| Lezione 12   | PHP                              | 18 aprile 2024 |  |  |
+| Lezione 13   | PHP: Sessioni, Database, AJAX    | 02 maggio 2024 |  |  |
+| Lezione 14   | Esercitazione PHP e REST API     | 07 maggio 2024 |  |  |
+| Lezione 15   | MVC: Laravel (1)                 | 09 maggio 2024 |  |
+| Lezione 16   | MVC: Laravel (2)                 | 14 maggio 2024 |  |
+| Lezione 17   | Porting PHP apps in Laravel      | 21 maggio 2024 |  |  |
+| Lezione 18   | Supporto porting|                | 23 maggio 2024 |  |
+| Lezione 19   | Seminario 1    |                 | 28 maggio 2024 |  |
+| Lezione 20   | Seminario 2    |                 | 30 maggio 2024 |  |
