@@ -25,6 +25,6 @@ layout: page
 | Lezione 15   | MVC: Laravel (1)                 | 09 maggio 2024 |  |
 | Lezione 16   | MVC: Laravel (2)                 | 14 maggio 2024 |  |
 | Lezione 17   | Porting PHP apps in Laravel      | 21 maggio 2024 |  |  |
-| Lezione 18   | Supporto porting|                | 23 maggio 2024 |  |
+| Lezione 18   | Supporto porting                | 23 maggio 2024 |  |
 | Lezione 19   | Seminario 1                     | 28 maggio 2024 |  |
 | Lezione 20   | Seminario 2                     | 30 maggio 2024 |  |
