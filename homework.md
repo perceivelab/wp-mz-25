@@ -10,8 +10,8 @@ Per partecipare agli homework, è necessario [compilare questo form](https://for
 
 | Homework | Argomento          | Assegnazione    | Consegna       | Specifiche   | Codice |
 | :-------:| ------------------ | --------------- | ---------------|--------------|--------|
-| MHW1     | HTML + CSS         | 16 marzo 2023   | 27 marzo 2023  |  | |
-| MHW2     | Javascript         | 28 marzo 2023   | 17 aprile 2023 |  | |  
-| MHW3     | REST API           | 11 aprile 2023  | 3 maggio 2023  |  |
-| HW1      | Sito Completo      | 27 aprile 2023  | 29 maggio 2023 |  |
-| HW2      | Porting HW1 in MVC | 11 maggio 2023  | 15 luglio 2023 |  |
+| MHW1     | HTML + CSS         | 12 marzo  2024  | 25 marzo 2024  |  | |
+| MHW2     | Javascript         | 21 marzo  2024  | 08 aprile 2024 |  | |  
+| MHW3     | REST API           | 04 aprile 2024  | 29 maggio 2024 |  |
+| HW1      | Sito Completo      | 18 aprile 2024  | 20 maggio 2024 |  |
+| HW2      | Porting HW1 in MVC | 09 maggio 2024  | 07 giugno -15 luglio 2024 |  |
