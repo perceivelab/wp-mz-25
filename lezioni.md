@@ -6,7 +6,7 @@ layout: page
 
 | Lezioni      | Argomento                        | Data           | Slides                          | Codice      |
 |--------------|----------------------------------|----------------|-------------------------------  |-------------|
-| Introduzione | Introduzione Corso               | 5 marzo 2024   | [Link](https://drive.google.com/file/d/1WmtblCUlTaukdLYbsib25Qd8-EY6uvPe/view?usp=sharing) |
+| Introduzione | Introduzione Corso               | 5 marzo 2024   | [Link](https://drive.google.com/file/d/1ASGInH1ss0n3VCtF0MWe4UsBe_EkPJNx/view?usp=sharing) |
 | Lezione 1    | HTML + CSS                       | 5 marzo 2024   | [Link](https://drive.google.com/file/d/17aelb9oak3HyO7KguJufS9jACzcajrNK/view?usp=sharing) |
 |              | Guida utilizzo GitHub            | 5 marzo 2024   | [Link](https://drive.google.com/file/d/1_2KkKbKc27C-OOTsVI4UUHMcGPl-q7AI/view?usp=sharing) |
 | Lezione 2    | CSS Box Model                    | 7 marzo 2024   |  |
