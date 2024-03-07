@@ -18,6 +18,7 @@ layout: default
 Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/2nmkEMKbDw).
 
 ## AVVISI
+- 06/03/2024 - La lezione di domani 07/03/2024 non si terrà. Le lezioni riprenderanno regolarmente secondo calendario.
 - 06/03/2024 - Si invitano gli studenti a compilare il [form](https://forms.gle/LMnKCVwjCrQe8qtS8), necessario per la consegna degli homework.
 - 23/02/2024 - Le lezioni inizieranno giorno 05/03/2024 come previsto dal calendario accademico.
 
