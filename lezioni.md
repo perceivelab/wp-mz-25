@@ -9,7 +9,7 @@ layout: page
 | Introduzione | Introduzione Corso               | 5 marzo 2024   | [Link](https://drive.google.com/file/d/1ASGInH1ss0n3VCtF0MWe4UsBe_EkPJNx/view?usp=sharing) |
 | Lezione 1    | HTML + CSS                       | 5 marzo 2024   | [Link](https://drive.google.com/file/d/17aelb9oak3HyO7KguJufS9jACzcajrNK/view?usp=sharing) |
 |              | Guida utilizzo GitHub            | 5 marzo 2024   | [Link](https://drive.google.com/file/d/1_2KkKbKc27C-OOTsVI4UUHMcGPl-q7AI/view?usp=sharing) |
-| Lezione 2    | CSS Box Model                    | 7 marzo 2024   |  |
+| Lezione 2    | CSS Box Model                    | 7 marzo 2024   | [Link](https://drive.google.com/file/d/1KIqOZYJAj3Ez8lU1L-yTLZGTc2Ove4m0/view?usp=sharing)|
 | Lezione 3    | Flexbox                          | 12 marzo 2024  |  |
 | Lezione 4    | Position, Mobile                 | 14 marzo 2024  |  |  |
 | Lezione 5    | Supporto svolgimento MHW1        | 19 marzo 2024  |  |
