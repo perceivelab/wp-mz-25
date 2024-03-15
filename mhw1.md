@@ -33,7 +33,7 @@ La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovr
 - i file `mhw1.html`, `mhw1.css` e le immagini da inserire nella pagina;
 - una presentazione in PowerPoint, `mhw1.pptx`, che riporta l'URL del sito web di riferimento e uno screenshot della pagina che si è cercato di replicare.
 
-**Importante**: i file devono essere caricati direttamente nella cartella principale del repository, non in sottocartelle né in file compressi (es. zip).
+**Importante**: i file devono essere caricati direttamente nella cartella principale del repository, e non sotto forma di file compressi (es. zip).
 Inoltre, il nome del repository **deve essere testualmente `mhw1`**, non `MHW1` o `minihomework1` o qualunque altra cosa.
 
 
