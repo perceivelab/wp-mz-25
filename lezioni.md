@@ -13,7 +13,7 @@ layout: page
 | Lezione 3    | Flexbox                          | 12-14 marzo 2024  | [Link](https://drive.google.com/file/d/1ia4jZ22XbLuuYOqmOXASutpZ7HMWg5xP/view?usp=sharing) |
 | Lezione 4    | Position, Mobile                 | 14 marzo 2024  | [Link](https://drive.google.com/file/d/1xktXHt3LeWJ3xDRQemt0Z6fBrnXuAuaZ/view?usp=drive_link) |  |
 | Lezione 5    | Supporto svolgimento MHW1        | 19 marzo 2024  |  |
-| Lezione 6    | Esempio HTML/CSS                 | 21 marzo 2024  | [Specifiche]() |
+| Lezione 6    | Esempio HTML/CSS                 | 21 marzo 2024  | [Specifiche](./esempio_html_css.md) | [Codebase](./codebase.zip)
 | Lezione 6    | Javascript                       | 26 marzo 2024  |  |  |
 | Lezione 7    | Javascript - DOM ed Eventi       | 28 marzo 2024  |  |  |
 | Lezione 8    | Javascript - Modali e Fetch      | 02 aprile 2024 |  |  |
