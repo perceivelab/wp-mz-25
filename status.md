@@ -6,7 +6,7 @@ layout: page
 
 #### Stato di consegna degli homework
 
-Ultimo aggiornamento: 26-03-2024 16:15:24
+Ultimo aggiornamento: 26-03-2024 16:26:56
 
 | Matricola | MHW1 | 
 | :------: | :----: | 
@@ -54,7 +54,7 @@ Ultimo aggiornamento: 26-03-2024 16:15:24
 | 1000030320 | :heavy_check_mark: |
 | 1000030344 | :heavy_check_mark: |
 | 1000030390 | :x: |
-| 1000030412 | :x: |
+| 1000030412 | :heavy_check_mark: |
 | 1000030434 | :heavy_check_mark: |
 | 1000030461 | :heavy_check_mark: |
 | 1000030488 | :heavy_check_mark: |
@@ -85,7 +85,7 @@ Ultimo aggiornamento: 26-03-2024 16:15:24
 | 1000031674 | :heavy_check_mark: |
 | 1000031757 | :heavy_check_mark: |
 | 1000031765 | :heavy_check_mark: |
-| 1000031875 | :x: |
+| 1000031875 | :hourglass: |
 | 1000031929 | :heavy_check_mark: |
 | 1000031941 | :heavy_check_mark: |
 | 1000031954 | :heavy_check_mark: |
@@ -107,7 +107,7 @@ Ultimo aggiornamento: 26-03-2024 16:15:24
 | 1000032967 | :heavy_check_mark: |
 | 1000033136 | :heavy_check_mark: |
 | 1000033758 | :heavy_check_mark: |
-| 1000034075 | :x: |
+| 1000034075 | :heavy_check_mark: |
 | 1000034149 | :heavy_check_mark: |
 | 1000034286 | :heavy_check_mark: |
 | 1000034388 | :heavy_check_mark: |
@@ -130,7 +130,7 @@ Ultimo aggiornamento: 26-03-2024 16:15:24
 | 1000036282 | :heavy_check_mark: |
 | 1000036289 | :heavy_check_mark: |
 | 1000036362 | :heavy_check_mark: |
-| 1000036397 | :x: |
+| 1000036397 | :heavy_check_mark: |
 | 1000036514 | :heavy_check_mark: |
 | 1000036541 | :heavy_check_mark: |
 | 1000036756 | :heavy_check_mark: |
