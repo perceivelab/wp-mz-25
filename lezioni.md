@@ -19,7 +19,7 @@ layout: page
 | Lezione 8    | Javascript - Eventi e Modale      | 02 aprile 2024 | [Link](https://docs.google.com/presentation/d/1snLf-yKluUl_sKD_8hC7HaI7hcQ-zthb/edit?usp=sharing&ouid=106514760952768214812&rtpof=true&sd=true)  | [Codice](https://drive.google.com/file/d/13q5lj32rN5lkZTMst1Rm7IFixn6rJu3e/view?usp=sharing) |
 | Lezione 9    | Javascript - Fetch               | 04 aprile 2024 | [Link](https://drive.google.com/file/d/1rYlDjDyCUFiWXj4K-U7mqTKwzLEzi8fm/view?usp=sharing) | [Codice](https://drive.google.com/file/d/1OYBHegCAtRzpppOcHBgqQlR4wJKzz5JK/view?usp=sharing)
 | Lezione 10   | REST API                         | 09 aprile 2024 | [Link](https://drive.google.com/file/d/1ITkMZQcVYfm2ToyXM5SR3asZecHUkXAt/view?usp=sharing) | [Codice](https://drive.google.com/file/d/1eQJXl1gw-jvsa4DvL6nQxaKurhb5Wjge/view?usp=drivesdk) |
-| Lezione 11   | Esercitazione REST API           | 16 aprile 2024 |  |  |
+| Lezione 11   | Esercitazione REST API           | 16 aprile 2024 |  | [Link](https://drive.google.com/file/d/1GeJYYNwi84mcYZRuojhL7PXGYjOhaqa_/view?usp=sharing) |
 | Lezione 12   | Supporto svolgimento MHW3        | 18 aprile 2024 |  |  |
 | Lezione 13   | PHP                              | 02 maggio 2024 |  |  |
 | Lezione 14   | PHP: Sessioni, Database, AJAX    | 07 maggio 2024 |  |  |
