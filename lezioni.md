@@ -28,4 +28,4 @@ layout: page
 | Lezione 17   | MVC: Laravel (2)                 | 21 maggio 2024 |  |
 | Lezione 18   | Porting PHP apps in Laravel      | 23 maggio 2024 |  |  |
 | Lezione 19   | Supporto porting                 | 28 maggio 2024 |  |
-| Lezione 20   | Seminario Node.JS                | 30 maggio 2024 |  |
+| Lezione 20   | Seminario su app ibride          | 30 maggio 2024 |  |
