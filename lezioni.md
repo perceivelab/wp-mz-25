@@ -23,8 +23,8 @@ layout: page
 | Lezione 12   | Supporto svolgimento MHW3        | 18 aprile 2024 |  |  |
 | Lezione 13   | PHP                              | 02 maggio 2024 | [Link](https://drive.google.com/file/d/1wsDB7VkbKdzQhBwK8JC-dY5f9EC0SEeS/view?usp=sharing) | [Codice](https://drive.google.com/file/d/1K6hfGa_td9vcvePtbLIMskHiTCK5sd6L/view?usp=sharing)  |
 | Lezione 14   | PHP: Sessioni, Database, AJAX    | 07 maggio 2024 |  |  |
-| Lezione 15   | Esercitazione PHP e REST API     | 09 maggio 2024 |  |  |
-| Lezione 16   | MVC: Laravel (1)                 | 14 maggio 2024 |  |
+| Lezione 15   | Esercitazione PHP e REST API     | 14 maggio 2024 |  |  |
+| Lezione 16   | MVC: Laravel (1)                 | 16 maggio 2024 |  |
 | Lezione 17   | MVC: Laravel (2)                 | 21 maggio 2024 |  |
 | Lezione 18   | Porting PHP apps in Laravel      | 23 maggio 2024 |  |  |
 | Lezione 19   | Supporto porting                 | 28 maggio 2024 |  |
