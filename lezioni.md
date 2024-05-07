@@ -22,7 +22,7 @@ layout: page
 | Lezione 11   | Esercitazione REST API           | 16 aprile 2024 |  | [Link](https://drive.google.com/file/d/1GeJYYNwi84mcYZRuojhL7PXGYjOhaqa_/view?usp=sharing) |
 | Lezione 12   | Supporto svolgimento MHW3        | 18 aprile 2024 |  |  |
 | Lezione 13   | PHP                              | 02 maggio 2024 | [Link](https://drive.google.com/file/d/1wsDB7VkbKdzQhBwK8JC-dY5f9EC0SEeS/view?usp=sharing) | [Codice](https://drive.google.com/file/d/1K6hfGa_td9vcvePtbLIMskHiTCK5sd6L/view?usp=sharing)  |
-| Lezione 14   | PHP: Sessioni, Database, AJAX    | 07 maggio 2024 |  |  |
+| Lezione 14   | PHP: Sessioni, Database, AJAX    | 07 maggio 2024 | [Link](https://drive.google.com/file/d/1yxogHuev29sC-E7lFhxSrsb7pEZqPBv8/view?usp=sharing) |  |
 | Lezione 15   | Esercitazione PHP e REST API     | 14 maggio 2024 |  |  |
 | Lezione 16   | MVC: Laravel (1)                 | 16 maggio 2024 |  |
 | Lezione 17   | MVC: Laravel (2)                 | 21 maggio 2024 |  |
