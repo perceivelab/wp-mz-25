@@ -6,7 +6,7 @@ layout: page
 
 #### Stato di consegna degli homework
 
-Ultimo aggiornamento: 09-05-2024 17:34:50
+Ultimo aggiornamento: 09-05-2024 18:58:08
 
 | Matricola | MHW1 |  MHW2 |  MHW3 | 
 | :------: | :----: | :----: | :----: | 
@@ -31,14 +31,14 @@ Ultimo aggiornamento: 09-05-2024 17:34:50
 | 1000015692 | :heavy_check_mark: | :hourglass: | :heavy_check_mark: |
 | 1000015754 | :heavy_check_mark: | :hourglass: | :heavy_check_mark: |
 | 1000015761 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000015821 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000015821 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000015867 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000015958 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000016038 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000016199 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000016038 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000016199 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000019322 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000022021 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000024179 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000024179 | :heavy_check_mark: | :hourglass: | :heavy_check_mark: |
 | 1000026802 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000029723 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000029731 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -47,7 +47,7 @@ Ultimo aggiornamento: 09-05-2024 17:34:50
 | 1000029786 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000029830 | :heavy_check_mark: | :x: | :x: |
 | 1000029916 | :hourglass: | :x: | :x: |
-| 1000029929 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000029929 | :heavy_check_mark: | :hourglass: | :heavy_check_mark: |
 | 1000029962 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000029964 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000030006 | :heavy_check_mark: | :x: | :x: |
@@ -76,16 +76,16 @@ Ultimo aggiornamento: 09-05-2024 17:34:50
 | 1000030771 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000030787 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000030790 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000030920 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000030920 | :heavy_check_mark: | :hourglass: | :heavy_check_mark: |
 | 1000030947 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000030992 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000031021 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000031021 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031080 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031132 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031173 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031177 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031240 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000031264 | :x: | :x: | :x: |
+| 1000031264 | :heavy_check_mark: | :x: | :x: |
 | 1000031326 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031382 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031504 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -99,8 +99,8 @@ Ultimo aggiornamento: 09-05-2024 17:34:50
 | 1000031956 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031967 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031972 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000031984 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000032014 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000031984 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000032014 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000032029 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000032076 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000032141 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -114,21 +114,21 @@ Ultimo aggiornamento: 09-05-2024 17:34:50
 | 1000032274 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000032293 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000032967 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000033136 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000033136 | :heavy_check_mark: | :hourglass: | :heavy_check_mark: |
 | 1000033758 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000034075 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000034075 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034149 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034286 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034388 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000034504 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000034504 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034708 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034832 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000034943 | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| 1000034943 | :heavy_check_mark: | :hourglass: | :x: |
 | 1000034984 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000035150 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000035182 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000035209 | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| 1000035439 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000035439 | :heavy_check_mark: | :hourglass: | :heavy_check_mark: |
 | 1000035611 | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | 1000035663 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000035706 | :heavy_check_mark: | :heavy_check_mark: | :hourglass: |
@@ -149,9 +149,9 @@ Ultimo aggiornamento: 09-05-2024 17:34:50
 | 1000037685 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000038035 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000038343 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000046401 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000046401 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000054745 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000062355 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000062355 | :heavy_check_mark: | :hourglass: | :heavy_check_mark: |
 | O46000781 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | O46000971 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | O46001678 | :heavy_check_mark: | :heavy_check_mark: | :x: |
