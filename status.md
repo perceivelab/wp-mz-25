@@ -6,7 +6,7 @@ layout: page
 
 #### Stato di consegna degli homework
 
-Ultimo aggiornamento: 09-05-2024 18:58:08
+Ultimo aggiornamento: 09-05-2024 19:18:18
 
 | Matricola | MHW1 |  MHW2 |  MHW3 | 
 | :------: | :----: | :----: | :----: | 
@@ -19,7 +19,7 @@ Ultimo aggiornamento: 09-05-2024 18:58:08
 | 1000005642 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000006555 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000014430 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000014515 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000014515 | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000014527 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000014704 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000014789 | :heavy_check_mark: | :x: | :x: |
@@ -93,9 +93,9 @@ Ultimo aggiornamento: 09-05-2024 18:58:08
 | 1000031757 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031765 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031875 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000031929 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000031929 | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031941 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000031954 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000031954 | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031956 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031967 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031972 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -120,7 +120,7 @@ Ultimo aggiornamento: 09-05-2024 18:58:08
 | 1000034149 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034286 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034388 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000034504 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000034504 | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034708 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034832 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000034943 | :heavy_check_mark: | :hourglass: | :x: |
