@@ -6,7 +6,7 @@ layout: page
 
 #### Stato di consegna degli homework
 
-Ultimo aggiornamento: 09-05-2024 20:31:59
+Ultimo aggiornamento: 13-05-2024 19:51:37
 
 | Matricola | MHW1 |  MHW2 |  MHW3 | 
 | :------: | :----: | :----: | :----: | 
@@ -95,7 +95,7 @@ Ultimo aggiornamento: 09-05-2024 20:31:59
 | 1000031875 | :hourglass: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031929 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031941 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000031954 | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| 1000031954 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031956 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031967 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000031972 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -139,7 +139,7 @@ Ultimo aggiornamento: 09-05-2024 20:31:59
 | 1000036282 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000036289 | :heavy_check_mark: | :heavy_check_mark: | :hourglass: |
 | 1000036362 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 1000036397 | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| 1000036397 | :heavy_check_mark: | :heavy_check_mark: | :hourglass: |
 | 1000036514 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000036541 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 1000036756 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -154,7 +154,7 @@ Ultimo aggiornamento: 09-05-2024 20:31:59
 | 1000062355 | :heavy_check_mark: | :hourglass: | :heavy_check_mark: |
 | O46000781 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | O46000971 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| O46001678 | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| O46001678 | :heavy_check_mark: | :heavy_check_mark: | :hourglass: |
 | O46001775 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | O46002094 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | O46002116 | :heavy_check_mark: | :x: | :x: |
