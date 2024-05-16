@@ -24,7 +24,7 @@ layout: page
 | Lezione 13   | PHP                              | 02 maggio 2024 | [Link](https://drive.google.com/file/d/1wsDB7VkbKdzQhBwK8JC-dY5f9EC0SEeS/view?usp=sharing) | [Codice](https://drive.google.com/file/d/1K6hfGa_td9vcvePtbLIMskHiTCK5sd6L/view?usp=sharing)  |
 | Lezione 14   | PHP: Sessioni, Database, AJAX    | 07 maggio 2024 | [Link](https://drive.google.com/file/d/1yxogHuev29sC-E7lFhxSrsb7pEZqPBv8/view?usp=sharing) | [Codice](https://drive.google.com/file/d/12ukcMzcndyiVKx8VMLTplkbG9CaEC6TM/view?usp=sharing) |
 | Lezione 15   | Esercitazione PHP e REST API     | 14 maggio 2024 |  | [Codice](https://drive.google.com/file/d/1mo2lNKwEfjXGJAT-h71P9iegbA-6UCIw/view?usp=sharing) |
-| Lezione 16   | MVC: Laravel (1)                 | 16 maggio 2024 |  |
+| Lezione 16   | MVC: Laravel (1)                 | 16 maggio 2024 | [Slide](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EYuNHeB3JLtDhJac-lT6G68BzfokL8K3ieE30A4Qu_L7zg?e=I5h9sb) |
 | Lezione 17   | MVC: Laravel (2)                 | 21 maggio 2024 |  |
 | Lezione 18   | Porting PHP apps in Laravel      | 23 maggio 2024 |  |  |
 | Lezione 19   | Supporto porting                 | 28 maggio 2024 |  |
