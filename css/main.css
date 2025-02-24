@@ -24,6 +24,21 @@ a:hover { text-decoration: underline; }
     width: 100%;
 }
 
+container {
+  width: 90vw;
+  margin: 0 auto;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#logo img {
+  width: 20%;
+}
+
 table {
     width: 100%;
     overflow-x: auto;
