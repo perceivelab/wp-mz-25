@@ -18,10 +18,7 @@ layout: default
 Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/2nmkEMKbDw).
 
 ## AVVISI
-- 09/06/2024 - Al seguente [link](https://calendly.com/cspampin/esami-wp-2024) sono disponibile le date per la discussione degli homework. 
-- 06/03/2024 - La lezione di domani 07/03/2024 non si terrà. Le lezioni riprenderanno regolarmente secondo calendario.
-- 06/03/2024 - Si invitano gli studenti a compilare il [form](https://forms.gle/LMnKCVwjCrQe8qtS8), necessario per la consegna degli homework.
-- 23/02/2024 - Le lezioni inizieranno giorno 05/03/2024 come previsto dal calendario accademico.
+- 24/02/2024 - Le lezioni inizieranno giorno 04/03/2025 come previsto dal calendario accademico.
 
 
 # ESAME
@@ -29,8 +26,6 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 ## Homework
 
 Durante lo svolgimento del corso saranno assegnati degli HW, le cui date di assegnazione e consegna sono disponibili nella relativa sezione al [link](./homework.md). 
-
-La discussione degli homework si terrà secondo questo [calendario](https://calendly.com/cspampin/esami-wp-2024).
 
 ## Progetto unico
 
