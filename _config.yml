@@ -1,7 +1,7 @@
 name: Web Programming Course
 markdown: kramdown
 
-baseurl: "/wp-mz-24"
+baseurl: "/wp-mz-25"
 url: "https://perceivelab.github.io"
 theme: jekyll-theme-cayman
 
