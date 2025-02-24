@@ -1,4 +1,4 @@
-![Screenshot 2024-06-09 alle 20 21 37](https://github.com/perceivelab/wp-mz-24/assets/1962094/353816e3-9e8c-405a-8b85-acf9dfba615a)---
+---
 layout: default
 ---
 
