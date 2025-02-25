@@ -13,7 +13,7 @@ layout: default
 
 **Ricevimento**: [Concordare via mail](#staff) 
 
-# ![](https://img.shields.io/badge/-7289DA?style=flat&logo=discord&logoColor=white) FORUM 
+# FORUM 
 {: #tag}
 Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/2nmkEMKbDw).
 
@@ -22,6 +22,7 @@ Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli a
 
 
 # ESAME
+L'esame consiste nella discussione orale degli homework (nel caso di studenti che frequentano il corso) o del progetto unico.  
 
 ## Homework
 
