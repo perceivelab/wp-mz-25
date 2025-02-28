@@ -39,5 +39,4 @@ esclusivamente quelle degli appelli previsti da calendario.
 # CONTATTI
 
 - *[Concetto Spampinato](mailto:concetto.spampinato@unict.it)*
-- *[Matteo Pennisi](mailto:matteo.pennisi@phd.unict.it)*
 
