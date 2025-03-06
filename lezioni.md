@@ -6,7 +6,7 @@ layout: page
 
 | Lezione | Argomento                                    | Data                | Slides | Codice |
 |---------|----------------------------------------------|----------------------|--------|--------|
-| 1       | Introduzione HTML e CSS                      | 6 marzo 2025         |        |        |
+| 1       | Introduzione HTML e CSS                      | 6 marzo 2025         | [1_HTML_CSS](https://drive.google.com/file/d/12wBHa6kBx7QZq_IP4fgD5pXTrGngScko/view?usp=sharing)       |        |
 | 2       | CSS                                          | 11 marzo 2025        |        |        |
 | 3       | Flexbox                                      | 13 marzo 2025        |        |        |
 | 4       | Position/mobile                              | 18 marzo 2025        |        |        |
