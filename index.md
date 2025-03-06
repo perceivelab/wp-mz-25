@@ -9,15 +9,16 @@ layout: default
 | Lezioni            |
 | :----------------: |
 | Martedì 11-13, D23 |
-| Giovedì 15-18, D44 |
+| Giovedì 15-18, Aula Magna Oliveri |
 
 **Ricevimento**: [Concordare via mail](#staff) 
 
 # FORUM 
 {: #tag}
-Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/2nmkEMKbDw).
+Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/U9VNZHmEC6).
 
 ## AVVISI
+- 06/03/2025 - Il link al canale discord è stato aggiornato.
 - 24/02/2025 - Le lezioni inizieranno giorno 06/03/2025.
 
 
