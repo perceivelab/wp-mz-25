@@ -18,6 +18,7 @@ layout: default
 Durante il corso si utilizzerà Discord come spazio per discutere di tutti gli aspetti tecnici e **per gli avvisi**. Si consiglia vivamente l'iscrizione al server attraverso il seguente [link](https://discord.gg/U9VNZHmEC6).
 
 ## AVVISI
+- 06/03/2025 - Le slide di introduzione al corso sono disponibili al seguente [link](https://drive.google.com/file/d/1EZY7q1FsQGVTG0G5oWY-ayoeQWwmVDoj/view?usp=sharing)
 - 06/03/2025 - Il link al canale discord è stato aggiornato.
 - 24/02/2025 - Le lezioni inizieranno giorno 06/03/2025.
 
