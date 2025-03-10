@@ -13,6 +13,8 @@ le funzionalità principali, gestendo sia il lato client che il lato server. Ad 
 - e-commerce;
 - gestione di eventi (es. concerti).
 
+**Importante**: il sito scelto deve prevedere delle funzionalità di inserimento di informazioni da parte degli utenti (ad es., post, commenti, like, chat). Queste funzionalità non saranno necessarie in questo MHW, ma saranno usate per integrare la comunicazione con il database.
+
 Il primo MHW consiste quindi nella replicazione dell'aspetto della pagina web principale del sito scelto, usando solamente HTML e CSS.
 In particolare, i requisiti di questo esercizio sono:
 - utilizzare layout Flexbox;
@@ -27,7 +29,7 @@ In particolare, i requisiti di questo esercizio sono:
 
 ### Consegna
 
-Per partecipare a questo MHW, è **obbligatorio** comunicarci preventivamente (entro i primi 5 giorni dall'assegnazione del MHW) il sito web che intendete replicare, attraverso questo [form](https://forms.gle/UdThfPuiYCLveCkJ6).
+Per partecipare a questo MHW, è **obbligatorio** comunicare il proprio nome utente su GitHub attraverso questo [form](https://forms.gle/cX6SjiRgN5QP1xgN8).
 
 La consegna del MHW dovrà essere effettuata sul vostro repository GitHub e dovrà includere:
 - i file `mhw1.html`, `mhw1.css` e le immagini da inserire nella pagina;
@@ -41,7 +43,7 @@ Inoltre, il nome del repository **deve essere testualmente `mhw1`**, non `MHW1` 
 
 Per una piena valutazione, rispettate le seguenti specifiche:
 
-- **Utilizzate l'HTML e il CSS che abbiamo visto a lezione.**
+- **Utilizzate solamente l'HTML e il CSS che abbiamo visto a lezione.**
   Non utilizzate codice HTML/CSS che non abbiamo studiato.
   Non utilizzate librerie aggiuntive (es. Bootstrap).
   - **Nota:** qualora riscontriate problemi relativi all'ordine con cui certi elementi si sovrappongono
