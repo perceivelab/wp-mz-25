@@ -6,6 +6,7 @@ layout: page
 
 | Lezione | Argomento                                    | Data                | Slides | Codice |
 |---------|----------------------------------------------|----------------------|--------|--------|
+| 0       | Guida all'uso di Github                      | 6 marzo 2025         | [Uso_GitHub](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea4MkN3rGrRFnfImnw2p8VMByI0qejervGa_A3fJni03ZQ?e=2mqAIF)       |        |
 | 1       | Introduzione HTML e CSS                      | 6 marzo 2025         | [1_HTML_CSS](https://drive.google.com/file/d/12wBHa6kBx7QZq_IP4fgD5pXTrGngScko/view?usp=sharing)       |        |
 | 2       | CSS                                          | 11 marzo 2025        |        |        |
 | 3       | Flexbox                                      | 13 marzo 2025        |        |        |
