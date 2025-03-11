@@ -4,7 +4,7 @@ layout: page
 
 # HOMEWORK
 
-Per partecipare agli homework, è necessario [compilare questo form](https://forms.gle/LMnKCVwjCrQe8qtS8) per comunicare il proprio username di GitHub.
+<!--Per partecipare agli homework, è necessario [compilare questo form](https://forms.gle/LMnKCVwjCrQe8qtS8) per comunicare il proprio username di GitHub.-->
 
 
 | Homework | Argomento          | Assegnazione    | Consegna       | Specifiche   | Codice |
