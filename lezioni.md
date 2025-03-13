@@ -9,7 +9,7 @@ layout: page
 | 0       | Guida all'uso di Github                      | 6 marzo 2025         | [Uso_GitHub](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ea4MkN3rGrRFnfImnw2p8VMByI0qejervGa_A3fJni03ZQ?e=2mqAIF)       |        |
 | 1       | Introduzione HTML e CSS                      | 6 marzo 2025         | [1_HTML_CSS](https://drive.google.com/file/d/12wBHa6kBx7QZq_IP4fgD5pXTrGngScko/view?usp=sharing)       |        |
 | 2       | CSS                                          | 11 marzo 2025        | [2_CSS_Box_Model](https://drive.google.com/file/d/10q3vg1TOWWIkmpNv4t235p8FpRgByfwc/view?usp=sharing)       |        |
-| 3       | Flexbox                                      | 13 marzo 2025        |        |        |
+| 3       | Flexbox                                      | 13 marzo 2025        | [3_Flexbox](https://drive.google.com/file/d/1GtLPUZl2Xc7_m77AB2KVpnfuvvDKM1vi/view?usp=sharing)       |        |
 | 4       | Position/mobile                              | 18 marzo 2025        |        |        |
 | 5       | Supporto svolgimento MHW1                    | 20 marzo 2025        |        |        |
 | 6       | Esempio svolgimento CSS                      | 25 marzo 2025        |        |        |
