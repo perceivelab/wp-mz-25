@@ -12,18 +12,18 @@ layout: page
 | 3       | Flexbox                                      | 13 marzo 2025        | [3_Flexbox](https://drive.google.com/file/d/1GtLPUZl2Xc7_m77AB2KVpnfuvvDKM1vi/view?usp=sharing)       |        |
 | 4       | Position/mobile                              | 18 marzo 2025        | [4_Position_mobile](https://drive.google.com/file/d/1JC9WtRfH8O3b9SlhRN5edhjm9WReu8DP/view?usp=sharing)      |    [4_Mobile_Code](https://drive.google.com/file/d/1zIEdQuYdr2qNgH_j2cv9hMQ1H8y_bZHt/view?usp=sharing)    |
 | 5       | Supporto svolgimento MHW1                    | 20 marzo 2025        |        |        |
-| 6       | Esempio svolgimento CSS                      | 25 marzo 2025        |        |        |
-| 7       | Introduzione Javascript                      | 27 marzo 2025        |        |        |
-| 8       | DOM + JS EVENTS                              | 1 aprile 2025        |        |        |
-| 9       | JS Modal + Fetch                             | 3 aprile 2025        |        |        |
-| 10      | Esempio svolgimento MHW2                     | 8 aprile 2025        |        |        |
-| 11      | REST API                                     | 10 aprile 2025       |        |        |
-| 12      | Esercizio REST API                           | 22 aprile 2025       |        |        |
-| 13      | PHP - Linguaggio e classi                    | 24 aprile 2025       |        |        |
-| 14      | PHP - Form, sessioni e database, AJAX        | 29 aprile 2025       |        |        |
-| 15      | Integrazione PHP e REST API                  | 6 maggio 2025        |        |        |
-| 16      | MVC/ORM/Laravel - parte 1                    | 13 maggio 2025       |        |        |
-| 17      | MVC/ORM/Laravel - parte 2                    | 15 maggio 2025       |        |        |
-| 18      | Porting HW1 in Laravel                       | 20 maggio 2025       |        |        |
-| 19      | Supporto porting in Laravel                  | 22 maggio 2025       |        |        |
-| 20      | Flask server per applicazioni AI su web      | 27 maggio 2025       |        |        |
+| 6       | Introduzione Javascript                      | 25 marzo 2025        |        |        |
+| 7       | DOM + JS EVENTS                              | 27 marzo 2025        |        |        |
+| 8       | JS Modal + Fetch                             | 1 aprile 2025        |        |        |
+| 9       | Esempio svolgimento MHW2                     | 3 aprile 2025        |        |        |
+| 10      | Esercizio REST API                           | 8 aprile 2025        |        |        |
+| 11      | PHP - Linguaggio e classi                    | 22 aprile 2025       |        |        |
+| 12      | PHP - Form e sessioni                        | 24 aprile 2025       |        |        |
+| 13      | PHP - Database e AJAX                        | 29 aprile 2025       |        |        |
+| 14      | Integrazione PHP e REST API                  | 6 maggio 2025        |        |        |
+| 15      | MVC/ORM/Laravel - parte 1                    | 13 maggio 2025       |        |        |
+| 16      | MVC/ORM/Laravel - parte 2                    | 15 maggio 2025       |        |        |
+| 17      | Porting HW1 in Laravel                       | 20 maggio 2025       |        |        |
+| 18      | Supporto porting in Laravel                  | 22 maggio 2025       |        |        |
+| 19      | Flask server per applicazioni AI su web      | 27 maggio 2025       |        |        |
+| 20      | Seminario su Web Programming Avanzato        | 29 maggio 2025       |        |        |
