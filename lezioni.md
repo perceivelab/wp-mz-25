@@ -11,8 +11,8 @@ layout: page
 | 2       | CSS                                          | 11 marzo 2025        | [2_CSS_Box_Model](https://drive.google.com/file/d/10q3vg1TOWWIkmpNv4t235p8FpRgByfwc/view?usp=sharing)       |        |
 | 3       | Flexbox                                      | 13 marzo 2025        | [3_Flexbox](https://drive.google.com/file/d/1GtLPUZl2Xc7_m77AB2KVpnfuvvDKM1vi/view?usp=sharing)       |        |
 | 4       | Position/mobile                              | 18 marzo 2025        | [4_Position_mobile](https://drive.google.com/file/d/1JC9WtRfH8O3b9SlhRN5edhjm9WReu8DP/view?usp=sharing)      |    [4_Mobile_Code](https://drive.google.com/file/d/1zIEdQuYdr2qNgH_j2cv9hMQ1H8y_bZHt/view?usp=sharing)    |
-| 5       | Supporto svolgimento MHW1                    | 20 marzo 2025        | [5_Introduzione_JS](https://drive.google.com/file/d/1KPX1ZQTKlVh_X7uASYfHMAf06VkXhVTh/view?usp=sharing)       |   [5_Esempi_JS](https://drive.google.com/file/d/1xn2SeUfR_0aKNKFS2_VSNtLHZ-DCss2b/view?usp=sharing)     |
-| 6       | Introduzione Javascript                      | 25 marzo 2025        |        |        |
+| 5       | Supporto svolgimento MHW1                    | 20 marzo 2025        |        |        |
+| 6       | Introduzione Javascript                      | 25 marzo 2025        | [5_Introduzione_JS](https://drive.google.com/file/d/1KPX1ZQTKlVh_X7uASYfHMAf06VkXhVTh/view?usp=sharing)       |   [5_Esempi_JS](https://drive.google.com/file/d/1xn2SeUfR_0aKNKFS2_VSNtLHZ-DCss2b/view?usp=sharing)     |
 | 7       | DOM + JS EVENTS                              | 27 marzo 2025        |        |        |
 | 8       | JS Modal + Fetch                             | 1 aprile 2025        |        |        |
 | 9       | Esempio svolgimento MHW2                     | 3 aprile 2025        |        |        |
