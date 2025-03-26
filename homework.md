@@ -6,6 +6,7 @@ layout: page
 
 <!--Per partecipare agli homework, è necessario [compilare questo form](https://forms.gle/LMnKCVwjCrQe8qtS8) per comunicare il proprio username di GitHub.-->
 
+[A questo link]({{ site.baseurl }}/status) trovate lo stato di consegna di ciascun homework ed esercitazione per ogni studente.
 
 | Homework | Argomento          | Assegnazione    | Consegna       | Specifiche   | Codice |
 | :-------:| ------------------ | --------------- | ---------------|--------------|--------|
