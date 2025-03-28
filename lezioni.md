@@ -13,7 +13,7 @@ layout: page
 | 4       | Position/mobile                              | 18 marzo 2025        | [4_Position_mobile](https://drive.google.com/file/d/1JC9WtRfH8O3b9SlhRN5edhjm9WReu8DP/view?usp=sharing)      |    [4_Mobile_Code](https://drive.google.com/file/d/1zIEdQuYdr2qNgH_j2cv9hMQ1H8y_bZHt/view?usp=sharing)    |
 | 5       | Supporto svolgimento MHW1                    | 20 marzo 2025        |        |        |
 | 6       | Introduzione Javascript                      | 25 marzo 2025        | [5_Introduzione_JS](https://drive.google.com/file/d/1KPX1ZQTKlVh_X7uASYfHMAf06VkXhVTh/view?usp=sharing)       |   [5_Esempi_JS](https://drive.google.com/file/d/1xn2SeUfR_0aKNKFS2_VSNtLHZ-DCss2b/view?usp=sharing)     |
-| 7       | DOM + JS EVENTS                              | 27 marzo 2025        |        |        |
+| 7       | DOM + JS EVENTS                              | 27 marzo 2025        | [6_DOM_Eventi](https://drive.google.com/file/d/118rwqzcV0jPd4ZHYqfmsJZ6Ojnbf3iZY/view?usp=sharing)       |        |
 | 8       | JS Modal + Fetch                             | 1 aprile 2025        |        |        |
 | 9       | Esempio svolgimento MHW2                     | 3 aprile 2025        |        |        |
 | 10      | Esercizio REST API                           | 8 aprile 2025        |        |        |
