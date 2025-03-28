@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 28-03-2025 08:01:05
+Ultimo aggiornamento: 28-03-2025 09:01:16
 
 | Matricola | mhw1 |
 | --- | --- |
@@ -18,7 +18,7 @@ Ultimo aggiornamento: 28-03-2025 08:01:05
 | 1000014733 |:x:|
 | 1000014968 |:heavy_check_mark:|
 | 1000024179 |:x:|
-| 1000029909 |:x:|
+| 1000029909 |:heavy_check_mark:|
 | 1000029916 |:x:|
 | 1000031339 |:x:|
 | 1000032021 |:x:|
@@ -126,6 +126,7 @@ Ultimo aggiornamento: 28-03-2025 08:01:05
 | 1000051425 |:heavy_check_mark:|
 | 1000052198 |:heavy_check_mark:|
 | 1000052523 |:heavy_check_mark:|
+| 1000053153 |:x:|
 | 1000053181 |:x:|
 | 1000064499 |:heavy_check_mark:|
 | 1OOOO32228 |:x:|
