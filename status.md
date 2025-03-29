@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 29-03-2025 18:01:01
+Ultimo aggiornamento: 29-03-2025 18:29:47
 
 | Matricola | mhw1 |
 | --- | --- |
@@ -17,12 +17,12 @@ Ultimo aggiornamento: 29-03-2025 18:01:01
 | 1000009649 |:x:|
 | 1000014733 |:x:|
 | 1000014968 |:heavy_check_mark:|
-| 1000024179 |:x:|
+| 1000024179 |:heavy_check_mark:|
 | 1000029909 |:heavy_check_mark:|
 | 1000029916 |:x:|
-| 1000030761 |:x:|
+| 1000030761 |:heavy_check_mark:|
 | 1000030988 |:x:|
-| 1000031339 |:x:|
+| 1000031339 |:heavy_check_mark:|
 | 1000032021 |:heavy_check_mark:|
 | 1000032103 |:heavy_check_mark:|
 | 1000032348 |:heavy_check_mark:|
@@ -34,7 +34,7 @@ Ultimo aggiornamento: 29-03-2025 18:01:01
 | 1000035209 |:heavy_check_mark:|
 | 1000036378 |:x:|
 | 1000036900 |:heavy_check_mark:|
-| 1000036999 |:x:|
+| 1000036999 |:heavy_check_mark:|
 | 1000037887 |:heavy_check_mark:|
 | 1000039047 |:heavy_check_mark:|
 | 1000044257 |:heavy_check_mark:|
@@ -42,7 +42,7 @@ Ultimo aggiornamento: 29-03-2025 18:01:01
 | 1000044373 |:heavy_check_mark:|
 | 1000044411 |:heavy_check_mark:|
 | 1000044435 |:heavy_check_mark:|
-| 1000044448 |:x:|
+| 1000044448 |:heavy_check_mark:|
 | 1000044451 |:heavy_check_mark:|
 | 1000044482 |:heavy_check_mark:|
 | 1000044546 |:heavy_check_mark:|
@@ -68,37 +68,37 @@ Ultimo aggiornamento: 29-03-2025 18:01:01
 | 1000045020 |:heavy_check_mark:|
 | 1000045054 |:heavy_check_mark:|
 | 1000045057 |:heavy_check_mark:|
-| 1000045058 |:x:|
+| 1000045058 |:heavy_check_mark:|
 | 1000045084 |:heavy_check_mark:|
 | 1000045111 |:heavy_check_mark:|
 | 1000045140 |:heavy_check_mark:|
 | 1000045157 |:heavy_check_mark:|
 | 1000045190 |:heavy_check_mark:|
 | 1000045301 |:heavy_check_mark:|
-| 1000045351 |:x:|
+| 1000045351 |:heavy_check_mark:|
 | 1000045391 |:heavy_check_mark:|
 | 1000045431 |:heavy_check_mark:|
 | 1000045461 |:x:|
 | 1000045468 |:x:|
-| 1000045523 |:x:|
+| 1000045523 |:heavy_check_mark:|
 | 1000045535 |:heavy_check_mark:|
 | 1000045544 |:heavy_check_mark:|
-| 1000045608 |:heavy_check_mark:|
+| 1000045608 |:hourglass:|
 | 1000045610 |:heavy_check_mark:|
 | 1000045611 |:heavy_check_mark:|
 | 1000045639 |:heavy_check_mark:|
-| 1000045751 |:x:|
+| 1000045751 |:heavy_check_mark:|
 | 1000045773 |:heavy_check_mark:|
 | 1000045784 |:heavy_check_mark:|
 | 1000045789 |:heavy_check_mark:|
 | 1000045879 |:heavy_check_mark:|
-| 1000045968 |:x:|
+| 1000045968 |:heavy_check_mark:|
 | 1000045980 |:heavy_check_mark:|
 | 1000046073 |:heavy_check_mark:|
-| 1000046087 |:x:|
+| 1000046087 |:heavy_check_mark:|
 | 1000046107 |:heavy_check_mark:|
-| 1000046121 |:x:|
-| 1000046173 |:x:|
+| 1000046121 |:heavy_check_mark:|
+| 1000046173 |:heavy_check_mark:|
 | 1000046217 |:heavy_check_mark:|
 | 1000046350 |:heavy_check_mark:|
 | 1000046366 |:heavy_check_mark:|
@@ -132,18 +132,18 @@ Ultimo aggiornamento: 29-03-2025 18:01:01
 | 1000048368 |:heavy_check_mark:|
 | 1000048614 |:heavy_check_mark:|
 | 1000048928 |:heavy_check_mark:|
-| 1000048980 |:x:|
+| 1000048980 |:heavy_check_mark:|
 | 1000049106 |:heavy_check_mark:|
 | 1000049323 |:heavy_check_mark:|
 | 1000049550 |:heavy_check_mark:|
 | 1000049717 |:heavy_check_mark:|
 | 1000049994 |:heavy_check_mark:|
-| 1000050974 |:x:|
+| 1000050974 |:heavy_check_mark:|
 | 1000051363 |:heavy_check_mark:|
 | 1000051425 |:heavy_check_mark:|
 | 1000052198 |:heavy_check_mark:|
 | 1000052523 |:heavy_check_mark:|
-| 1000053153 |:x:|
+| 1000053153 |:heavy_check_mark:|
 | 1000053181 |:x:|
 | 1000053588 |:heavy_check_mark:|
 | 1000064499 |:heavy_check_mark:|
