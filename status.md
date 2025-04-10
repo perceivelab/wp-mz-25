@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 10-04-2025 14:04:23
+Ultimo aggiornamento: 10-04-2025 20:04:08
 
 | Matricola | mhw1|mhw2 |
 | --- | ---|--- |
@@ -56,7 +56,7 @@ Ultimo aggiornamento: 10-04-2025 14:04:23
 | 1000044744 |:heavy_check_mark:|:x:|
 | 1000044758 |:heavy_check_mark:|:x:|
 | 1000044777 |:heavy_check_mark:|:x:|
-| 1000044782 |:heavy_check_mark:|:x:|
+| 1000044782 |:heavy_check_mark:|:heavy_check_mark:|
 | 1000044805 |:heavy_check_mark:|:x:|
 | 1000044815 |:heavy_check_mark:|:heavy_check_mark:|
 | 1000044849 |:heavy_check_mark:|:x:|
@@ -81,7 +81,7 @@ Ultimo aggiornamento: 10-04-2025 14:04:23
 | 1000045391 |:heavy_check_mark:|:x:|
 | 1000045431 |:heavy_check_mark:|:x:|
 | 1000045461 |:hourglass:|:x:|
-| 1000045468 |:x:|:x:|
+| 1000045468 |:heavy_check_mark:|:x:|
 | 1000045523 |:heavy_check_mark:|:x:|
 | 1000045535 |:heavy_check_mark:|:heavy_check_mark:|
 | 1000045544 |:heavy_check_mark:|:x:|
@@ -106,7 +106,7 @@ Ultimo aggiornamento: 10-04-2025 14:04:23
 | 1000046350 |:heavy_check_mark:|:x:|
 | 1000046366 |:heavy_check_mark:|:x:|
 | 1000046372 |:heavy_check_mark:|:x:|
-| 1000046400 |:heavy_check_mark:|:x:|
+| 1000046400 |:heavy_check_mark:|:heavy_check_mark:|
 | 1000046434 |:heavy_check_mark:|:x:|
 | 1000046442 |:heavy_check_mark:|:x:|
 | 1000046468 |:heavy_check_mark:|:heavy_check_mark:|
@@ -116,7 +116,7 @@ Ultimo aggiornamento: 10-04-2025 14:04:23
 | 1000046498 |:heavy_check_mark:|:x:|
 | 1000046515 |:heavy_check_mark:|:x:|
 | 1000046517 |:heavy_check_mark:|:x:|
-| 1000046539 |:heavy_check_mark:|:x:|
+| 1000046539 |:heavy_check_mark:|:heavy_check_mark:|
 | 1000046572 |:heavy_check_mark:|:heavy_check_mark:|
 | 1000046579 |:heavy_check_mark:|:heavy_check_mark:|
 | 1000046583 |:heavy_check_mark:|:x:|
