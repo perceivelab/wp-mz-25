@@ -23,7 +23,7 @@ layout: page
 | 14      | PHP - Form, sessioni e database - AJAX - REST PHP | 13 maggio 2025   |       |       |
 | 15      | Integrazione PHP e REST API  | 15 maggio 2025 |       |       |
 | 16      | MVC/ORM/Laravel - Parte 1                   | 20 maggio 2025       |       |       |
-| 17      | MVC/ORM/Laravel - Parte 1                       | 22 maggio 2025       |       |       |
+| 17      | MVC/ORM/Laravel - Parte 2                       | 22 maggio 2025       |       |       |
 | 18      | Porting HW1 in Laravel                         | 27 maggio 2025       |       |       |
 | 19      | Supporto svolgimento HW1                               | 29 maggio 2025       |       |       |
 | 20      | Flask server per applicazioni AI su web        | 3 giugno 2025        |       |       |
