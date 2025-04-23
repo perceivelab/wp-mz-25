@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 23-04-2025 14:05:26
+Ultimo aggiornamento: 23-04-2025 19:07:48
 
 | Matricola | mhw1|mhw2|mhw3 |
 | --- | ---|---|--- |
@@ -35,7 +35,7 @@ Ultimo aggiornamento: 23-04-2025 14:05:26
 | 1000035757 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000036031 |:hourglass:|:heavy_check_mark:|:x:|
 | 1000036378 |:hourglass:|:hourglass:|:x:|
-| 1000036900 |:heavy_check_mark:|:x:|:x:|
+| 1000036900 |:heavy_check_mark:|:hourglass:|:x:|
 | 1000036999 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000037887 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000039047 |:heavy_check_mark:|:heavy_check_mark:|:x:|
@@ -59,7 +59,7 @@ Ultimo aggiornamento: 23-04-2025 14:05:26
 | 1000044782 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044805 |:heavy_check_mark:|:x:|:x:|
 | 1000044815 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000044849 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044849 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044850 |:x:|:x:|:x:|
 | 1000044914 |:hourglass:|:x:|:x:|
 | 1000044929 |:heavy_check_mark:|:heavy_check_mark:|:x:|
@@ -85,7 +85,7 @@ Ultimo aggiornamento: 23-04-2025 14:05:26
 | 1000045523 |:heavy_check_mark:|:x:|:x:|
 | 1000045535 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045544 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000045572 |:hourglass:|:x:|:x:|
+| 1000045572 |:hourglass:|:hourglass:|:x:|
 | 1000045608 |:hourglass:|:heavy_check_mark:|:x:|
 | 1000045610 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045611 |:heavy_check_mark:|:heavy_check_mark:|:x:|
@@ -125,7 +125,7 @@ Ultimo aggiornamento: 23-04-2025 14:05:26
 | 1000046624 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046663 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046693 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000046881 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000046881 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000047191 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000047549 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000047586 |:hourglass:|:heavy_check_mark:|:x:|
