@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 29-04-2025 08:05:12
+Ultimo aggiornamento: 29-04-2025 14:05:57
 
 | Matricola | mhw1|mhw2|mhw3 |
 | --- | ---|---|--- |
@@ -42,11 +42,11 @@ Ultimo aggiornamento: 29-04-2025 08:05:12
 | 1000044257 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044289 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044373 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000044411 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044411 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044435 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044448 |:heavy_check_mark:|:hourglass:|:x:|
 | 1000044451 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000044482 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044482 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044546 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044655 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044668 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -83,14 +83,14 @@ Ultimo aggiornamento: 29-04-2025 08:05:12
 | 1000045461 |:hourglass:|:x:|:x:|
 | 1000045468 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045523 |:heavy_check_mark:|:x:|:x:|
-| 1000045535 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000045535 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045544 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045572 |:hourglass:|:hourglass:|:x:|
 | 1000045608 |:hourglass:|:heavy_check_mark:|:x:|
 | 1000045610 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045611 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045639 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000045751 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000045751 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045773 |:heavy_check_mark:|:hourglass:|:x:|
 | 1000045784 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045789 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -104,7 +104,7 @@ Ultimo aggiornamento: 29-04-2025 08:05:12
 | 1000046173 |:heavy_check_mark:|:x:|:x:|
 | 1000046217 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046350 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000046366 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000046366 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000046372 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046400 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046434 |:heavy_check_mark:|:heavy_check_mark:|:x:|
