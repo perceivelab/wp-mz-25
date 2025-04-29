@@ -7,7 +7,7 @@ layout: page
 
 Questo MHW consiste nell'integrazione, all'interno della stessa pagina realizzata nel secondo esercizio, di chiamate a API REST
 tramite `fetch`.
-Dovete usare **almeno due** API REST (di cui **almeno una** con autenticazione OAuth2).
+Dovete usare **almeno due** API REST.
 La scelta delle API è libera (possibilmente inerenti alla tematica del vostro progetto), così come la modalità di integrazione.
 
 Una lista di possibili API REST da utilizzare è disponibile [qui](https://github.com/public-apis/public-apis) (ma potete usarne anche altre non incluse in quella pagina).
