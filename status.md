@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 02-05-2025 14:05:05
+Ultimo aggiornamento: 02-05-2025 20:05:10
 
 | Matricola | mhw1|mhw2|mhw3 |
 | --- | ---|---|--- |
@@ -28,7 +28,7 @@ Ultimo aggiornamento: 02-05-2025 14:05:05
 | 1000032348 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000032476 |:heavy_check_mark:|:hourglass:|:x:|
 | 1000033348 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000033894 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000033894 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000033942 |:x:|:x:|:x:|
 | 1000034139 |:heavy_check_mark:|:hourglass:|:x:|
 | 1000035209 |:heavy_check_mark:|:hourglass:|:x:|
@@ -38,7 +38,7 @@ Ultimo aggiornamento: 02-05-2025 14:05:05
 | 1000036900 |:heavy_check_mark:|:hourglass:|:x:|
 | 1000036999 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000037887 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000039047 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000039047 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044257 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044289 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044373 |:heavy_check_mark:|:heavy_check_mark:|:x:|
@@ -47,11 +47,11 @@ Ultimo aggiornamento: 02-05-2025 14:05:05
 | 1000044448 |:heavy_check_mark:|:hourglass:|:x:|
 | 1000044451 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044482 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000044546 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044546 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044655 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044668 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044715 |:heavy_check_mark:|:x:|:x:|
-| 1000044717 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044717 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044730 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044744 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044758 |:heavy_check_mark:|:heavy_check_mark:|:x:|
