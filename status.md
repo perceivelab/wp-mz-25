@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 06-05-2025 14:06:10
+Ultimo aggiornamento: 06-05-2025 20:04:21
 
 | Matricola | mhw1|mhw2|mhw3 |
 | --- | ---|---|--- |
@@ -14,9 +14,9 @@ Ultimo aggiornamento: 06-05-2025 14:06:10
 | 1000003156 |:hourglass:|:x:|:x:|
 | 1000003998 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000006157 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000009649 |:hourglass:|:x:|:x:|
+| 1000009649 |:hourglass:|:hourglass:|:x:|
 | 1000014733 |:x:|:x:|:x:|
-| 1000014968 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000014968 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000024179 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000029909 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000029916 |:x:|:x:|:x:|
@@ -35,12 +35,12 @@ Ultimo aggiornamento: 06-05-2025 14:06:10
 | 1000035757 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000036031 |:hourglass:|:heavy_check_mark:|:x:|
 | 1000036378 |:hourglass:|:hourglass:|:x:|
-| 1000036900 |:heavy_check_mark:|:hourglass:|:x:|
+| 1000036900 |:heavy_check_mark:|:hourglass:|:heavy_check_mark:|
 | 1000036999 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000037887 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000037887 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000039047 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044257 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000044289 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044289 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044373 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044411 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044435 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -52,11 +52,11 @@ Ultimo aggiornamento: 06-05-2025 14:06:10
 | 1000044668 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044715 |:heavy_check_mark:|:x:|:x:|
 | 1000044717 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000044730 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044730 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044744 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044758 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044777 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000044782 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044782 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044805 |:heavy_check_mark:|:x:|:x:|
 | 1000044815 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044849 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -76,7 +76,7 @@ Ultimo aggiornamento: 06-05-2025 14:06:10
 | 1000045140 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045157 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045190 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000045301 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000045301 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045351 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045391 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045431 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -89,7 +89,7 @@ Ultimo aggiornamento: 06-05-2025 14:06:10
 | 1000045608 |:hourglass:|:heavy_check_mark:|:x:|
 | 1000045610 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045611 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000045639 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000045639 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045681 |:x:|:x:|:x:|
 | 1000045751 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045773 |:heavy_check_mark:|:hourglass:|:x:|
@@ -106,7 +106,7 @@ Ultimo aggiornamento: 06-05-2025 14:06:10
 | 1000046217 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046350 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046366 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000046372 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000046372 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000046400 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046434 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046442 |:heavy_check_mark:|:heavy_check_mark:|:x:|
