@@ -6,11 +6,11 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 05-05-2025 14:15:24
+Ultimo aggiornamento: 06-05-2025 08:04:53
 
 | Matricola | mhw1|mhw2|mhw3 |
 | --- | ---|---|--- |
-| 1000001745 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000001745 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000003156 |:hourglass:|:x:|:x:|
 | 1000003998 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000006157 |:heavy_check_mark:|:heavy_check_mark:|:x:|
@@ -32,18 +32,18 @@ Ultimo aggiornamento: 05-05-2025 14:15:24
 | 1000033942 |:x:|:x:|:x:|
 | 1000034139 |:heavy_check_mark:|:hourglass:|:x:|
 | 1000035209 |:heavy_check_mark:|:hourglass:|:x:|
-| 1000035757 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000035757 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000036031 |:hourglass:|:heavy_check_mark:|:x:|
 | 1000036378 |:hourglass:|:hourglass:|:x:|
 | 1000036900 |:heavy_check_mark:|:hourglass:|:x:|
-| 1000036999 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000036999 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000037887 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000039047 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044257 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044289 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044373 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044411 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000044435 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044435 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044448 |:heavy_check_mark:|:hourglass:|:x:|
 | 1000044451 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044482 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -64,7 +64,7 @@ Ultimo aggiornamento: 05-05-2025 14:15:24
 | 1000044914 |:hourglass:|:x:|:x:|
 | 1000044929 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000044930 |:hourglass:|:x:|:x:|
-| 1000044949 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000044949 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044962 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000044993 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045020 |:heavy_check_mark:|:heavy_check_mark:|:x:|
@@ -73,13 +73,13 @@ Ultimo aggiornamento: 05-05-2025 14:15:24
 | 1000045058 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045084 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045111 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000045140 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000045140 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045157 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045190 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045301 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000045351 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000045351 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045391 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000045431 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000045431 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045461 |:hourglass:|:x:|:x:|
 | 1000045468 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045523 |:heavy_check_mark:|:x:|:x:|
@@ -93,12 +93,12 @@ Ultimo aggiornamento: 05-05-2025 14:15:24
 | 1000045681 |:x:|:x:|:x:|
 | 1000045751 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045773 |:heavy_check_mark:|:hourglass:|:x:|
-| 1000045784 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000045784 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045789 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045879 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045968 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000045980 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000046073 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000046073 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000046087 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046107 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046121 |:heavy_check_mark:|:x:|:x:|
@@ -113,11 +113,11 @@ Ultimo aggiornamento: 05-05-2025 14:15:24
 | 1000046468 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000046475 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046480 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000046488 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000046488 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000046498 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000046515 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000046517 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000046539 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000046517 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| 1000046539 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000046572 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000046579 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000046583 |:heavy_check_mark:|:x:|:x:|
@@ -134,11 +134,11 @@ Ultimo aggiornamento: 05-05-2025 14:15:24
 | 1000047931 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000048003 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000048234 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000048368 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000048368 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000048614 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000048928 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000048928 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000048980 |:heavy_check_mark:|:heavy_check_mark:|:x:|
-| 1000049106 |:heavy_check_mark:|:heavy_check_mark:|:x:|
+| 1000049106 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000049323 |:heavy_check_mark:|:heavy_check_mark:|:x:|
 | 1000049550 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000049717 |:heavy_check_mark:|:heavy_check_mark:|:x:|
