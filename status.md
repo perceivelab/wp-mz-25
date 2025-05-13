@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 13-05-2025 14:02:20
+Ultimo aggiornamento: 13-05-2025 20:02:22
 
 | Matricola | mhw1|mhw2|mhw3 |
 | --- | ---|---|--- |
