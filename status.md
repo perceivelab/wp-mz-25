@@ -6,7 +6,7 @@ layout: page
 
 #### Stato consegne
 
-Ultimo aggiornamento: 21-05-2025 14:02:26
+Ultimo aggiornamento: 21-05-2025 20:02:14
 
 | Matricola | mhw1|mhw2|mhw3 |
 | --- | ---|---|--- |
@@ -85,7 +85,7 @@ Ultimo aggiornamento: 21-05-2025 14:02:26
 | 1000045523 |:heavy_check_mark:|:x:|:x:|
 | 1000045535 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045544 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| 1000045572 |:hourglass:|:hourglass:|:x:|
+| 1000045572 |:hourglass:|:hourglass:|:hourglass:|
 | 1000045608 |:hourglass:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045610 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | 1000045611 |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
