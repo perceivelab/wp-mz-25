@@ -26,4 +26,4 @@ layout: page
 | 17      | MVC/ORM/Laravel - Parte 2                       | 22 maggio 2025       |       |       |
 | 18      | Porting HW1 in Laravel                         | 27 maggio 2025       |       |       |
 | 19      | Supporto svolgimento HW1                               | 29 maggio 2025       |       |       |
-| 20      | Supporto svolgimento HW2        | 6 giugno 2025        |       |       |
+| 20      | Supporto svolgimento HW2        | 5 giugno 2025        |       |       |
