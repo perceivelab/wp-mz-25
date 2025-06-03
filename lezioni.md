@@ -23,7 +23,7 @@ layout: page
 | 14      | PHP - Form, sessioni e database - AJAX - REST PHP | 13 maggio 2025   |  [14_PHP_Form](https://drive.google.com/file/d/1m9HV0fn7zqYu5BiOK4jzlC_ISC17lyH9/view?usp=sharing)     |    [14_PHP_Form_Code](https://drive.google.com/file/d/1COJR57GbJt801-dcIcZV4O9a26SlwBsp/view?usp=sharing)   |
 | 15      | Integrazione PHP e REST API  | 15 maggio 2025 |       |    [15_Codice_Sito_PHP](https://drive.google.com/file/d/1RnRqyfKrLE4eY2Lzf5CnoK3rMe9JerYZ/view?usp=sharing)   |
 | 16      | MVC/ORM/Laravel - Parte 1                   | 20 maggio 2025       | [16_MVC](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZQRdGyIoY5JucwmvyNxolYBfxoSPiQnZhRjhB4dwsLWCg?e=ksJIbc)      |       |
-| 17      | MVC/ORM/Laravel - Parte 2                       | 22 maggio 2025       |       |    [Progetto_Laravel](https://drive.google.com/file/d/1w9jLNw-vZLZj6-6ocCyDwapDiwQKy4YS/view?usp=sharing)   |
-| 18      | Porting HW1 in Laravel                         | 27 maggio 2025       |       |       |
+| 17      | MVC/ORM/Laravel - Parte 2                       | 22 maggio 2025       |       |     |
+| 18      | Porting HW1 in Laravel                         | 27 maggio 2025       |       |    [17_Progetto Laravel](https://drive.google.com/file/d/1w9jLNw-vZLZj6-6ocCyDwapDiwQKy4YS/view?usp=sharing)     |
 | 19      | Supporto svolgimento HW1                               | 3 giugno 2025       |       |       |
 | 20      | Supporto svolgimento HW2        | 5 giugno 2025        |       |       |
